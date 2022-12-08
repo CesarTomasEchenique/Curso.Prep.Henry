@@ -1,0 +1,20 @@
+
+#Conceptos
+
+	Variables:
+		es una palabra que se le asigna un valor, por lo tanto cuando se invoca esa palabra o variable retorna dicho valor.
+
+	Strings:
+		cualquier palabra, numero o signo que se quiera imprimir o mostrar en pantalla tal como se quiere mostrar sin que de un valor o interfiera con el codigo.
+
+	Funciones(argunentos, return):
+		las funciones ayudan a no repetir un codigo muchas veces, se les da un nombre a cada una y algun valor determinado y esta realiza una accion.
+		return es la palabra que realiza la accion de salir del codigo interno de la funcion.
+		y argumento es el valor que se le pasa a la funcion.
+
+
+	Declaraciones (IF):
+		if recibe una condicion y guia el codigo para que haga un camino determinado y se ejecute segun si la condicion se cumple o no.
+
+	Valores Booleanos (true,false):
+		booleanos se le dice a los valore que retornan como resultado si es verdadero o falso.
