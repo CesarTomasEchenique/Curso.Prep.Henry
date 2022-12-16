@@ -1,0 +1,10 @@
+#Conceptos
+	
+	for:
+		es un bucle que se repite determinadas veces, se conose la cantidad de veses que itera, y se le asigna un paso para la variable que hace de contador
+
+	"&&", "||", "!":
+		son comparadores logicos que anexan a una condicion para ser mas espesificas
+		&&; se le asigna cuando hay 2 condiciones que se tinen que cumplir, para que se ejecute un codigo se tiene que conseguir true "Y" true en las 2 o mas condiciones.
+		||;logico "o" cuando colocamos varias condiciones y tenemos que decir que se ejecute el codigo cuando alguna de esas codiciones se cumplan, usamos el logico "o" (||) que examina las condiciones y se ejecuta el bloque cuando una o mas de sus condiciones sean verdaderas.
+		!; logico Negacion lo usamos para negar, para devolver lo contrario de un codigo. Cuando tenemos un codigo que resulta true, si nosotros a ese codigo lo señalamos con el simbolo "!" daremos de resultado false 
